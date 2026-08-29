@@ -1,0 +1,15 @@
+{
+  "version": "3.0",
+  "date": "2025-09-01",
+  "source": "ISM Cybersecurity Principles",
+  "mappings": [
+    {"ism": "GOV-01", "iso_27001": "A.5.1", "vpdss": "Standard 1", "nist_csf": "GV.OC-01"},
+    {"ism": "GOV-02", "iso_27001": "A.5.2", "vpdss": "Standard 1", "nist_csf": "GV.OC-02"},
+    {"ism": "GOV-03", "iso_27001": "A.5.5", "vpdss": "Standard 3", "nist_csf": "GV.RM-01"},
+    {"ism": "PRO-04", "iso_27001": "A.8.9", "vpdss": "Standard 11", "nist_csf": "PR.AT-01"},
+    {"ism": "PRO-08", "iso_27001": "A.8.24", "vpdss": "Standard 11", "nist_csf": "PR.DS-01"},
+    {"ism": "PRO-12", "iso_27001": "A.5.15", "vpdss": "Standard 4", "nist_csf": "PR.AC-04"},
+    {"ism": "DET-01", "iso_27001": "A.8.16", "vpdss": "Standard 11", "nist_csf": "DE.AE-03"},
+    {"ism": "RES-01", "iso_27001": "A.5.24", "vpdss": "Standard 5", "nist_csf": "RS.MI-01"}
+  ]
+}
